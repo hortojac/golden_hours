@@ -1,7 +1,7 @@
-# golden_hours
-EECS 690 Project
+# Golden Hours
+EECS 690: Interdisciplinary Collaborations Project
 
-Project Team:
-![us](https://github.com/dwesty23/golden_hours/assets/120140940/542b6f39-7fa7-4a9b-8ef0-ac42af48cd98)
+[Play our game here!](https://universityofkansas.itch.io/team-c-2024)
 
-
+Project Poster:
+![Poster](https://github.com/hortojac/golden_hours/blob/main/Team_C_Poster.png)
